@@ -124,23 +124,23 @@
     "description": "Loading messsage"
   },
   "generalIssueOption": {
-    "message": "General issue (requires notes)",
+    "message": "Problème général (nécessite des notes)",
     "description": "The option text for a general issue"
   },
   "scrollbarIssueOption": {
-    "message": "Scrollbar related",
+    "message": "En rapport avec la barre de défilement",
     "description": "The option text for a scrollbar issue"
   },
   "modalIssueOption": {
-    "message": "Modal related",
+    "message": "En rapport avec une boîte de dialogue",
     "description": "The option text for a modal issue"
   },
   "scrollbarIssueDescription": {
-    "message": "Select this option to signify an issue on this page related to scrolling - like 'the site is not showing a scrollbar'.",
+    "message": "Choisissez cette option pour indiquer un problème lié au défilement sur cette page, par exemple « le site n'affiche pas de barre de défilement ».",
     "description": "Explanation of what a scrollbar issue is"
   },
   "modalIssueDescription": {
-    "message": "Select this option to signify an issue on this page related to a modal - like 'there is a pop-up box blocking interaction'.",
+    "message": "Choisissez cette option pour indiquer un problème lié à une boîte de dialogue sur cette page, par exemple « il y a une fenêtre pop-up qui empêche toute interaction ».",
     "description": "Explanation of what a modal issue is"
   }
 }
