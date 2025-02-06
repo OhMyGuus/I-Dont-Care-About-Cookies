@@ -92,11 +92,11 @@
     "description": "Translation of 'report' it will be shown like 'Report example.com'"
   },
   "reportAnonNotes": {
-    "message": "Observações: ",
+    "message": "Observações:",
     "description": "Notes for the report"
   },
   "reportNotesPlaceholder": {
-    "message": "Coisas como:\nA reprodução de vídeo não está a funcionar\nBarra de deslocamento quebrada\nsobreposição cinzenta",
+    "message": "Coisas como:\nA reprodução de vídeo não funciona\nBarra de rolagem quebrada\nsobreposição cinzenta",
     "description": "Placeholder for the notes (\n) is a new line & keep it 4 lines"
   },
   "reportAnonSend": {
@@ -128,19 +128,19 @@
     "description": "The option text for a general issue"
   },
   "scrollbarIssueOption": {
-    "message": "Relacionado com a barra de deslocamento",
+    "message": "Relacionado à barra de rolagem",
     "description": "The option text for a scrollbar issue"
   },
   "modalIssueOption": {
-    "message": "Relacionado com modal",
+    "message": "Relacionado a modal",
     "description": "The option text for a modal issue"
   },
   "scrollbarIssueDescription": {
-    "message": "Seleccione esta opção para indicar um problema nesta página relacionado com a barra de deslocamento - como \"o site não está a mostrar uma barra de deslocamento\".",
+    "message": "Selecione esta opção para indicar um problema nesta página relacionado à rolagem - como \"o site não mostra a barra de rolagem\".",
     "description": "Explanation of what a scrollbar issue is"
   },
   "modalIssueDescription": {
-    "message": "Seleccione esta opção para indicar um problema nesta página relacionado com um modal - como \"há uma caixa pop-up a bloquear a interação\".",
+    "message": "Selecione esta opção para indicar um problema nesta página relacionado com um modal - como \"há uma caixa pop-up bloqueando a interação\".",
     "description": "Explanation of what a modal issue is"
   }
 }
