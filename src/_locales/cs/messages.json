@@ -18,11 +18,11 @@
     }
   },
   "reportSkippedMessage": {
-    "message": "Na tomto webu jste rozšíření zakázali. Povolte jej a znovu zkontrolujte správnou funkčnost rozšíření.",
+    "message": "Na této stránce jste rozšíření zakázali. Povolte jej a zkontrolujte varování o cookies před nahlášení.",
     "description": "Tells the user it cannot report a whitelisted domain."
   },
   "reportConfirm": {
-    "message": "Chtele nahlásit oznámení o cookies na $HOSTNAME$?",
+    "message": "Chcete nahlásit varování o cookies na $HOSTNAME$?",
     "description": "Ask for confirmation before reporting a website. Don't use quotes here.",
     "placeholders": {
       "hostname": {
@@ -56,7 +56,7 @@
     "description": "Menu option visible when enabling/disabling doesn't work."
   },
   "menuReport": {
-    "message": "Nahlásit oznámení o cookies",
+    "message": "Nahlásit varování o cookies",
     "description": "Menu option."
   },
   "menuSupport": {
@@ -80,7 +80,7 @@
     "description": "Options text for SAVE button."
   },
   "reportGithub": {
-    "message": "Nahlásit pomocí Githubu",
+    "message": "Nahlásit pomocí GitHubu",
     "description": "Menu item to report using Github"
   },
   "reportAnon": {
@@ -132,15 +132,15 @@
     "description": "The option text for a scrollbar issue"
   },
   "modalIssueOption": {
-    "message": "Modal related",
+    "message": "Související s modálním oknem",
     "description": "The option text for a modal issue"
   },
   "scrollbarIssueDescription": {
-    "message": "Select this option to signify an issue on this page related to scrolling - like 'the site is not showing a scrollbar'.",
+    "message": "Tuto možnost vyberte, chcete-li označit problém na této stránce související s posouváním - například \"na stránce se nezobrazuje posuvník\".",
     "description": "Explanation of what a scrollbar issue is"
   },
   "modalIssueDescription": {
-    "message": "Select this option to signify an issue on this page related to a modal - like 'there is a pop-up box blocking interaction'.",
+    "message": "Tuto možnost vyberte, chcete-li označit problém na této stránce související s modálním oknem - například \"vyskakovací okno blokuje interakci\".",
     "description": "Explanation of what a modal issue is"
   }
 }
