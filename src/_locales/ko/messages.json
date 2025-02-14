@@ -1,14 +1,14 @@
 {
   "extensionName": {
-    "message": "I still don't care about cookies",
+    "message": "쿠키에 대해선 신경 쓰지 않아",
     "description": "Name of the extension."
   },
   "extensionDescription": {
-    "message": "Community version of the extension `I don't care about cookies` (no Avast)",
+    "message": "`쿠키에 대해선 신경 쓰지 않아`의 커뮤니티 버전이에요.(Avast 없음)",
     "description": "Description of the extension."
   },
   "reportSkippedTitle": {
-    "message": "Extension is disabled on $HOSTNAME$.",
+    "message": "$HOSTNAME$ 사이트에서 확장 프로그램이 사용 중지됐어요.",
     "description": "Tells the user it cannot report a whitelisted domain.",
     "placeholders": {
       "hostname": {
@@ -18,11 +18,11 @@
     }
   },
   "reportSkippedMessage": {
-    "message": "You have disabled the extension on this website. Please enable it and check if you see the cookie warning before reporting.",
+    "message": "이 웹사이트에서 확장 프로그램을 사용 중지했어요. 사용 설정 후 제보 전 쿠키 알림을 보는지 확인해 주세요.",
     "description": "Tells the user it cannot report a whitelisted domain."
   },
   "reportConfirm": {
-    "message": "Would you like to report a cookie warning on $HOSTNAME$?",
+    "message": "$HOSTNAME$ 사이트에서 쿠키 알림을 제보할까요?",
     "description": "Ask for confirmation before reporting a website. Don't use quotes here.",
     "placeholders": {
       "hostname": {
@@ -32,7 +32,7 @@
     }
   },
   "menuEnable": {
-    "message": "Enable extension on $HOSTNAME$",
+    "message": "$HOSTNAME$ 사이트에서 확장 프로그램 사용",
     "description": "Menu option.",
     "placeholders": {
       "hostname": {
@@ -42,7 +42,7 @@
     }
   },
   "menuDisable": {
-    "message": "Disable extension on $HOSTNAME$",
+    "message": "$HOSTNAME$ 사이트에서 확장 프로그램 사용 중지",
     "description": "Menu option.",
     "placeholders": {
       "hostname": {
@@ -52,95 +52,95 @@
     }
   },
   "menuIdle": {
-    "message": "Extension doesn't work on this website",
+    "message": "이 웹사이트에서는 확장 프로그램이 작동하지 않아요",
     "description": "Menu option visible when enabling/disabling doesn't work."
   },
   "menuReport": {
-    "message": "Report a cookie warning",
+    "message": "쿠키 알림 제보",
     "description": "Menu option."
   },
   "menuSupport": {
-    "message": "Support this project",
+    "message": "이 프로젝트 후원",
     "description": "Menu option."
   },
   "optionsTitle": {
-    "message": "Settings",
+    "message": "설정",
     "description": "Title for the options page."
   },
   "optionsWhitelist": {
-    "message": "List of all whitelisted websites, one website per line:",
+    "message": "허용한 모든 웹사이트 목록이에요. 한 줄에 한 웹사이트씩 있어요:",
     "description": "Options text for whitelist box."
   },
   "optionStatusIndicators": {
-    "message": "status indicators",
+    "message": "상태 표시기",
     "description": "Option text for enabling the status indicator"
   },
   "optionsButton": {
-    "message": "Save settings",
+    "message": "설정 저장",
     "description": "Options text for SAVE button."
   },
   "reportGithub": {
-    "message": "Report using Github",
+    "message": "Github을 사용해 제보",
     "description": "Menu item to report using Github"
   },
   "reportAnon": {
-    "message": "Report anonymously",
+    "message": "익명으로 제보",
     "description": "Menu item to report anonymously"
   },
   "reportAnonTitle": {
-    "message": "Report",
+    "message": "제보:",
     "description": "Translation of 'report' it will be shown like 'Report example.com'"
   },
   "reportAnonNotes": {
-    "message": "Notes: ",
+    "message": "기록: ",
     "description": "Notes for the report"
   },
   "reportNotesPlaceholder": {
-    "message": "Things like:\nVideoplayback not working\nBroken scrollbar\ngray overlay",
+    "message": "다음과 같은 사항:\n동영상 재생이 안 됨\n스크롤 바가 고장남\n오버레이가 회색임",
     "description": "Placeholder for the notes (\n) is a new line & keep it 4 lines"
   },
   "reportAnonSend": {
-    "message": "Send report",
+    "message": "제보하기",
     "description": "Button to send the report"
   },
   "reportAnonCancel": {
-    "message": "Cancel",
+    "message": "취소",
     "description": "Button to cCancel the report"
   },
   "genericErrorTitle": {
-    "message": "Something went wrong",
+    "message": "무언가 잘못됐어요",
     "description": "Genereric error title"
   },
   "genericErrorTryAgain": {
-    "message": "Try again later..",
+    "message": "나중에 다시 시도해 주세요...",
     "description": "Try again later message"
   },
   "genericErrorBack": {
-    "message": "Back",
+    "message": "뒤로가기",
     "description": "Back button after error"
   },
   "menuLoadingText": {
-    "message": "Loading...",
+    "message": "불러오는 중...",
     "description": "Loading messsage"
   },
   "generalIssueOption": {
-    "message": "General issue (requires notes)",
+    "message": "일반 문제(기록 필요)",
     "description": "The option text for a general issue"
   },
   "scrollbarIssueOption": {
-    "message": "Scrollbar related",
+    "message": "스크롤 바 관련",
     "description": "The option text for a scrollbar issue"
   },
   "modalIssueOption": {
-    "message": "Modal related",
+    "message": "모달 관련",
     "description": "The option text for a modal issue"
   },
   "scrollbarIssueDescription": {
-    "message": "Select this option to signify an issue on this page related to scrolling - like 'the site is not showing a scrollbar'.",
+    "message": "해당 옵션은 '사이트에 스크롤 바가 표시되지 않음'과 같이 이 페이지에 스크롤 바와 관련된 문제가 있음을 나타내요.",
     "description": "Explanation of what a scrollbar issue is"
   },
   "modalIssueDescription": {
-    "message": "Select this option to signify an issue on this page related to a modal - like 'there is a pop-up box blocking interaction'.",
+    "message": "해당 옵션은 '상호 작용을 방해하는 팝업 상자가 있음'과 같이 이 페이지에 모달과 관련된 문제가 있음을 나타내요.",
     "description": "Explanation of what a modal issue is"
   }
 }

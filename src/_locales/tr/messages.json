@@ -1,14 +1,14 @@
 {
   "extensionName": {
-    "message": "I still don't care about cookies",
+    "message": "Çerezleri hala umursamıyorum",
     "description": "Name of the extension."
   },
   "extensionDescription": {
-    "message": "Community version of the extension `I don't care about cookies` (no Avast)",
+    "message": "'Çerezleri hala umursamıyorum' uzantısının topluluk sürümü (Avast yok)",
     "description": "Description of the extension."
   },
   "reportSkippedTitle": {
-    "message": "Extension is disabled on $HOSTNAME$.",
+    "message": "Uzantı $HOSTNAME$ için devre dışı bırakıldı.",
     "description": "Tells the user it cannot report a whitelisted domain.",
     "placeholders": {
       "hostname": {
@@ -18,11 +18,11 @@
     }
   },
   "reportSkippedMessage": {
-    "message": "You have disabled the extension on this website. Please enable it and check if you see the cookie warning before reporting.",
+    "message": "Bu sitede uzantıyı devre dışı bıraktınız. Lütfen etkinleştirin ve raporlamadan önce çerez uyarısını görüp görmediğinizi kontrol edin.",
     "description": "Tells the user it cannot report a whitelisted domain."
   },
   "reportConfirm": {
-    "message": "Would you like to report a cookie warning on $HOSTNAME$?",
+    "message": "$HOSTNAME$ ile ilgili bir çerez uyarısı bildirmek ister misiniz?",
     "description": "Ask for confirmation before reporting a website. Don't use quotes here.",
     "placeholders": {
       "hostname": {
@@ -32,7 +32,7 @@
     }
   },
   "menuEnable": {
-    "message": "Enable extension on $HOSTNAME$",
+    "message": "$HOSTNAME$ üzerinde uzantıyı etkinleştir",
     "description": "Menu option.",
     "placeholders": {
       "hostname": {
@@ -42,7 +42,7 @@
     }
   },
   "menuDisable": {
-    "message": "Disable extension on $HOSTNAME$",
+    "message": "$HOSTNAME$ üzerinde uzantıyı devre dışı bırak",
     "description": "Menu option.",
     "placeholders": {
       "hostname": {
@@ -52,95 +52,95 @@
     }
   },
   "menuIdle": {
-    "message": "Extension doesn't work on this website",
+    "message": "Uzantı bu sitede çalışmıyor",
     "description": "Menu option visible when enabling/disabling doesn't work."
   },
   "menuReport": {
-    "message": "Report a cookie warning",
+    "message": "Çerez uyarısını bildir",
     "description": "Menu option."
   },
   "menuSupport": {
-    "message": "Support this project",
+    "message": "Bu projeye destek ol",
     "description": "Menu option."
   },
   "optionsTitle": {
-    "message": "Settings",
+    "message": "Ayarlar",
     "description": "Title for the options page."
   },
   "optionsWhitelist": {
-    "message": "List of all whitelisted websites, one website per line:",
+    "message": "Beyaz listede olan tüm siteler, her satır için bir site:",
     "description": "Options text for whitelist box."
   },
   "optionStatusIndicators": {
-    "message": "status indicators",
+    "message": "durum göstergesi",
     "description": "Option text for enabling the status indicator"
   },
   "optionsButton": {
-    "message": "Save settings",
+    "message": "Ayarları kaydet",
     "description": "Options text for SAVE button."
   },
   "reportGithub": {
-    "message": "Report using Github",
+    "message": "Github kullanarak bildir",
     "description": "Menu item to report using Github"
   },
   "reportAnon": {
-    "message": "Report anonymously",
+    "message": "İsimsiz olarak bildir",
     "description": "Menu item to report anonymously"
   },
   "reportAnonTitle": {
-    "message": "Report",
+    "message": "Bildir",
     "description": "Translation of 'report' it will be shown like 'Report example.com'"
   },
   "reportAnonNotes": {
-    "message": "Notes: ",
+    "message": "Notlar: ",
     "description": "Notes for the report"
   },
   "reportNotesPlaceholder": {
-    "message": "Things like:\nVideoplayback not working\nBroken scrollbar\ngray overlay",
+    "message": "Bunun gibi şeyler:\nVideo oynatma çalışmıyor\nBozuk kaydırma çubuğu\nGri ekran",
     "description": "Placeholder for the notes (\n) is a new line & keep it 4 lines"
   },
   "reportAnonSend": {
-    "message": "Send report",
+    "message": "Rapor gönder",
     "description": "Button to send the report"
   },
   "reportAnonCancel": {
-    "message": "Cancel",
+    "message": "İptal Et",
     "description": "Button to cCancel the report"
   },
   "genericErrorTitle": {
-    "message": "Something went wrong",
+    "message": "Bir sorun oluştu",
     "description": "Genereric error title"
   },
   "genericErrorTryAgain": {
-    "message": "Try again later..",
+    "message": "Daha sonra tekrar deneyin..",
     "description": "Try again later message"
   },
   "genericErrorBack": {
-    "message": "Back",
+    "message": "Geri",
     "description": "Back button after error"
   },
   "menuLoadingText": {
-    "message": "Loading...",
+    "message": "Yükleniyor...",
     "description": "Loading messsage"
   },
   "generalIssueOption": {
-    "message": "General issue (requires notes)",
+    "message": "Genel sorun (notlar gerekir)",
     "description": "The option text for a general issue"
   },
   "scrollbarIssueOption": {
-    "message": "Scrollbar related",
+    "message": "Kaydırma çubuğu ile ilgili",
     "description": "The option text for a scrollbar issue"
   },
   "modalIssueOption": {
-    "message": "Modal related",
+    "message": "Kip ile ilgili",
     "description": "The option text for a modal issue"
   },
   "scrollbarIssueDescription": {
-    "message": "Select this option to signify an issue on this page related to scrolling - like 'the site is not showing a scrollbar'.",
+    "message": "Bu sayfada kaydırmayla ilgili bir sorunu belirtmek için bu seçeneği seçin örneğin 'site kaydırma çubuğunu göstermiyor'.",
     "description": "Explanation of what a scrollbar issue is"
   },
   "modalIssueDescription": {
-    "message": "Select this option to signify an issue on this page related to a modal - like 'there is a pop-up box blocking interaction'.",
+    "message": "Bu sayfada bir kip ile ilgili bir sorunu belirtmek için bu seçeneği belirleyin - örneğin \"etkileşimi engelleyen bir açılır kutu var\".",
     "description": "Explanation of what a modal issue is"
   }
 }
