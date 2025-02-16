@@ -4,11 +4,11 @@
     "description": "Name of the extension."
   },
   "extensionDescription": {
-    "message": "Community version of the extension `I don't care about cookies` (no Avast)",
+    "message": "Verzija zajednice ekstenzije `I don't care about cookies` (ne Avast)",
     "description": "Description of the extension."
   },
   "reportSkippedTitle": {
-    "message": "Ekstenzija ne radi na $HOSTNAME$.",
+    "message": "Ekstenzija je ugašena na $HOSTNAME$.",
     "description": "Tells the user it cannot report a whitelisted domain.",
     "placeholders": {
       "hostname": {
@@ -52,7 +52,7 @@
     }
   },
   "menuIdle": {
-    "message": "Ekstenzija ne radi na ovoj domeni",
+    "message": "Ekstenzija ne radi na ovoj stranici",
     "description": "Menu option visible when enabling/disabling doesn't work."
   },
   "menuReport": {
@@ -72,75 +72,75 @@
     "description": "Options text for whitelist box."
   },
   "optionStatusIndicators": {
-    "message": "status indicators",
+    "message": "Pokazatelji statusa",
     "description": "Option text for enabling the status indicator"
   },
   "optionsButton": {
-    "message": "Snimi postavke",
+    "message": "Spremi postavke",
     "description": "Options text for SAVE button."
   },
   "reportGithub": {
-    "message": "Report using Github",
+    "message": "Prijavi preko GitHub-a",
     "description": "Menu item to report using Github"
   },
   "reportAnon": {
-    "message": "Report anonymously",
+    "message": "Prijavi anonimno",
     "description": "Menu item to report anonymously"
   },
   "reportAnonTitle": {
-    "message": "Report",
+    "message": "Prijavi",
     "description": "Translation of 'report' it will be shown like 'Report example.com'"
   },
   "reportAnonNotes": {
-    "message": "Notes: ",
+    "message": "Bilješke: ",
     "description": "Notes for the report"
   },
   "reportNotesPlaceholder": {
-    "message": "Things like:\nVideoplayback not working\nBroken scrollbar\ngray overlay",
+    "message": "Stvari poput:\nNe radi reprodukcija videa\nPokvaren scrollbar\nPrikaz je zasivljen",
     "description": "Placeholder for the notes (\n) is a new line & keep it 4 lines"
   },
   "reportAnonSend": {
-    "message": "Send report",
+    "message": "Pošalji prijavu",
     "description": "Button to send the report"
   },
   "reportAnonCancel": {
-    "message": "Cancel",
+    "message": "Odustani",
     "description": "Button to cCancel the report"
   },
   "genericErrorTitle": {
-    "message": "Something went wrong",
+    "message": "Dogodila se pogreška",
     "description": "Genereric error title"
   },
   "genericErrorTryAgain": {
-    "message": "Try again later..",
+    "message": "Pokušajte ponovno kasnije.",
     "description": "Try again later message"
   },
   "genericErrorBack": {
-    "message": "Back",
+    "message": "Nazad",
     "description": "Back button after error"
   },
   "menuLoadingText": {
-    "message": "Loading...",
+    "message": "Učitavanje...",
     "description": "Loading messsage"
   },
   "generalIssueOption": {
-    "message": "General issue (requires notes)",
+    "message": "Općeniti problem (obavezne bilješke)",
     "description": "The option text for a general issue"
   },
   "scrollbarIssueOption": {
-    "message": "Scrollbar related",
+    "message": "Scrollbar problem",
     "description": "The option text for a scrollbar issue"
   },
   "modalIssueOption": {
-    "message": "Modal related",
+    "message": "Modal problem",
     "description": "The option text for a modal issue"
   },
   "scrollbarIssueDescription": {
-    "message": "Select this option to signify an issue on this page related to scrolling - like 'the site is not showing a scrollbar'.",
+    "message": "Odaberite ovu opciju kako biste označili problem na ovoj stranici vezan uz scrollanje – na primjer, 'stranica ne prikazuje scrollbar'.",
     "description": "Explanation of what a scrollbar issue is"
   },
   "modalIssueDescription": {
-    "message": "Select this option to signify an issue on this page related to a modal - like 'there is a pop-up box blocking interaction'.",
+    "message": "Odaberite ovu opciju kako biste označili problem na ovoj stranici vezan uz modalni prozor – na primjer, 'pojavio se skočni prozor koji sprečava interakciju'.",
     "description": "Explanation of what a modal issue is"
   }
 }

@@ -124,23 +124,23 @@
     "description": "Loading messsage"
   },
   "generalIssueOption": {
-    "message": "General issue (requires notes)",
+    "message": "Загальна проблема (потрібні примітки)",
     "description": "The option text for a general issue"
   },
   "scrollbarIssueOption": {
-    "message": "Scrollbar related",
+    "message": "Пов'язані з смугою прокрутки",
     "description": "The option text for a scrollbar issue"
   },
   "modalIssueOption": {
-    "message": "Modal related",
+    "message": "Повʼязані з модальним вікном",
     "description": "The option text for a modal issue"
   },
   "scrollbarIssueDescription": {
-    "message": "Select this option to signify an issue on this page related to scrolling - like 'the site is not showing a scrollbar'.",
+    "message": "Виберіть цей параметр для позначення проблеми на цій сторінці пов'язані з прокруткою - наприклад, \"сайт не показує прокручування\".",
     "description": "Explanation of what a scrollbar issue is"
   },
   "modalIssueDescription": {
-    "message": "Select this option to signify an issue on this page related to a modal - like 'there is a pop-up box blocking interaction'.",
+    "message": "Виберіть цей параметр для позначення проблеми на цій сторінці пов'язані з модальним вікном - наприклад, \"сайт не показує модальне вікно\".",
     "description": "Explanation of what a modal issue is"
   }
 }

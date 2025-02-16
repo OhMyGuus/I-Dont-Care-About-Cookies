@@ -68,7 +68,7 @@
     "description": "Title for the options page."
   },
   "optionsWhitelist": {
-    "message": "Lijst van alle ‘whitelisted’ websites, één website per regel:",
+    "message": "Lijst van alle toegestane websites, één website per regel:",
     "description": "Options text for whitelist box."
   },
   "optionStatusIndicators": {
@@ -96,7 +96,7 @@
     "description": "Notes for the report"
   },
   "reportNotesPlaceholder": {
-    "message": "Dingen zoals:\nVideo afspelen werkt niet\nKapotte scrollbalk\ngrijze overlay",
+    "message": "Dingen zoals:\nVideoweergave werkt niet\nKapotte scrollbalk\ngrijze overlay",
     "description": "Placeholder for the notes (\n) is a new line & keep it 4 lines"
   },
   "reportAnonSend": {
@@ -124,11 +124,11 @@
     "description": "Loading messsage"
   },
   "generalIssueOption": {
-    "message": "General issue (requires notes)",
+    "message": "Algemeen probleem (vereist opmerkingen)",
     "description": "The option text for a general issue"
   },
   "scrollbarIssueOption": {
-    "message": "Scrollbar related",
+    "message": "Schuifbalk gerelateerd",
     "description": "The option text for a scrollbar issue"
   },
   "modalIssueOption": {
@@ -136,7 +136,7 @@
     "description": "The option text for a modal issue"
   },
   "scrollbarIssueDescription": {
-    "message": "Select this option to signify an issue on this page related to scrolling - like 'the site is not showing a scrollbar'.",
+    "message": "Selecteer deze optie om een probleem op deze pagina met betrekking tot scrollen aan te geven, zoals 'de site toont geen schuifbalk'.",
     "description": "Explanation of what a scrollbar issue is"
   },
   "modalIssueDescription": {

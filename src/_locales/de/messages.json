@@ -128,7 +128,7 @@
     "description": "The option text for a general issue"
   },
   "scrollbarIssueOption": {
-    "message": "Scrollbar bezogen",
+    "message": "Auf (die) Scrollbar bezogen",
     "description": "The option text for a scrollbar issue"
   },
   "modalIssueOption": {
