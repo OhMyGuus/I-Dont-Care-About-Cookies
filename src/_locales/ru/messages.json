@@ -92,7 +92,7 @@
     "description": "Translation of 'report' it will be shown like 'Report example.com'"
   },
   "reportAnonNotes": {
-    "message": "Комментарий: ",
+    "message": "Комментарии: ",
     "description": "Notes for the report"
   },
   "reportNotesPlaceholder": {

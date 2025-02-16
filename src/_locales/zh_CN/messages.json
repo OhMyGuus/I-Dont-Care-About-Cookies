@@ -1,14 +1,14 @@
 {
   "extensionName": {
-    "message": "I still don't care about cookies",
+    "message": "我仍然不在乎cookies",
     "description": "Name of the extension."
   },
   "extensionDescription": {
-    "message": "Community version of the extension `I don't care about cookies` (no Avast)",
+    "message": "扩展程序的社区版本“我仍然不在乎Cookies” (无Avast)",
     "description": "Description of the extension."
   },
   "reportSkippedTitle": {
-    "message": "插件在$HOSTNAME$上不可用",
+    "message": "插件在$HOSTNAME$上不可用。",
     "description": "Tells the user it cannot report a whitelisted domain.",
     "placeholders": {
       "hostname": {
@@ -18,7 +18,7 @@
     }
   },
   "reportSkippedMessage": {
-    "message": "您已禁用此网站上的扩展程序。请启用它并检查您是否在报告前看到cookie警告。",
+    "message": "您已在此网站上禁用该扩展程序。请启用它并检查您是否在上报前看到cookie警告。",
     "description": "Tells the user it cannot report a whitelisted domain."
   },
   "reportConfirm": {
@@ -72,7 +72,7 @@
     "description": "Options text for whitelist box."
   },
   "optionStatusIndicators": {
-    "message": "status indicators",
+    "message": "状态指示器",
     "description": "Option text for enabling the status indicator"
   },
   "optionsButton": {
@@ -80,67 +80,67 @@
     "description": "Options text for SAVE button."
   },
   "reportGithub": {
-    "message": "Report using Github",
+    "message": "前往 Github 反馈",
     "description": "Menu item to report using Github"
   },
   "reportAnon": {
-    "message": "Report anonymously",
+    "message": "匿名反馈",
     "description": "Menu item to report anonymously"
   },
   "reportAnonTitle": {
-    "message": "Report",
+    "message": "反馈",
     "description": "Translation of 'report' it will be shown like 'Report example.com'"
   },
   "reportAnonNotes": {
-    "message": "Notes: ",
+    "message": "说明: ",
     "description": "Notes for the report"
   },
   "reportNotesPlaceholder": {
-    "message": "Things like:\nVideoplayback not working\nBroken scrollbar\ngray overlay",
+    "message": "如以下这些问题：\n视频播放无法正常工作\n滚动条损坏\n灰色覆盖层",
     "description": "Placeholder for the notes (\n) is a new line & keep it 4 lines"
   },
   "reportAnonSend": {
-    "message": "Send report",
+    "message": "提交反馈",
     "description": "Button to send the report"
   },
   "reportAnonCancel": {
-    "message": "Cancel",
+    "message": "取消",
     "description": "Button to cCancel the report"
   },
   "genericErrorTitle": {
-    "message": "Something went wrong",
+    "message": "出现了一些错误",
     "description": "Genereric error title"
   },
   "genericErrorTryAgain": {
-    "message": "Try again later..",
+    "message": "请稍后再试",
     "description": "Try again later message"
   },
   "genericErrorBack": {
-    "message": "Back",
+    "message": "返回",
     "description": "Back button after error"
   },
   "menuLoadingText": {
-    "message": "Loading...",
+    "message": "加载中…",
     "description": "Loading messsage"
   },
   "generalIssueOption": {
-    "message": "General issue (requires notes)",
+    "message": "一般性问题 (需要说明)",
     "description": "The option text for a general issue"
   },
   "scrollbarIssueOption": {
-    "message": "Scrollbar related",
+    "message": "滚动条相关",
     "description": "The option text for a scrollbar issue"
   },
   "modalIssueOption": {
-    "message": "Modal related",
+    "message": "模态框相关",
     "description": "The option text for a modal issue"
   },
   "scrollbarIssueDescription": {
-    "message": "Select this option to signify an issue on this page related to scrolling - like 'the site is not showing a scrollbar'.",
+    "message": "选择此选项以表示此页面上与滚动相关的问题，例如“网站没有显示滚动条”。",
     "description": "Explanation of what a scrollbar issue is"
   },
   "modalIssueDescription": {
-    "message": "Select this option to signify an issue on this page related to a modal - like 'there is a pop-up box blocking interaction'.",
+    "message": "选择此选项以表示此页面上与模态框相关的问题，例如“有一个弹出框阻止了交互”。",
     "description": "Explanation of what a modal issue is"
   }
 }

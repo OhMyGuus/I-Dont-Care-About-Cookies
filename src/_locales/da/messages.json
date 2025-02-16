@@ -1,10 +1,10 @@
 {
   "extensionName": {
-    "message": "I still don't care about cookies",
+    "message": "Jeg er stadig ligeglad med cookies",
     "description": "Name of the extension."
   },
   "extensionDescription": {
-    "message": "Fællesskabsversion af udvidelsen `I still don't care about cookies` (ingen Avast)",
+    "message": "Fællesskabsversion af udvidelsen `Jeg er stadig ligeglad med cookies` (ingen Avast)",
     "description": "Description of the extension."
   },
   "reportSkippedTitle": {
@@ -18,7 +18,7 @@
     }
   },
   "reportSkippedMessage": {
-    "message": "Du har deaktiveret udvidelsen på dette webstedet. Vær venlig at aktiver den på og se, om du ser cookie-advarslen, før du rapporterer det.",
+    "message": "Udvidelsen er deaktiveret på dette websted. Aktivér den, og tjek om cookie-advarslen ses, før en anmeldelse indsendes.",
     "description": "Tells the user it cannot report a whitelisted domain."
   },
   "reportConfirm": {
@@ -32,7 +32,7 @@
     }
   },
   "menuEnable": {
-    "message": "Aktiver udvidelse på $HOSTNAME$",
+    "message": "Aktivér udvidelse på $HOSTNAME$",
     "description": "Menu option.",
     "placeholders": {
       "hostname": {
@@ -42,7 +42,7 @@
     }
   },
   "menuDisable": {
-    "message": "Deaktiver udvidelse på $HOSTNAME$",
+    "message": "Deaktivér udvidelse på $HOSTNAME$",
     "description": "Menu option.",
     "placeholders": {
       "hostname": {
@@ -52,11 +52,11 @@
     }
   },
   "menuIdle": {
-    "message": "Udvidelsen virker ikke på dette webstedet",
+    "message": "Udvidelsen virker ikke på dette websted",
     "description": "Menu option visible when enabling/disabling doesn't work."
   },
   "menuReport": {
-    "message": "Rapporter en cookie-advarsel",
+    "message": "Anmeld en cookie-advarsel",
     "description": "Menu option."
   },
   "menuSupport": {
@@ -68,7 +68,7 @@
     "description": "Title for the options page."
   },
   "optionsWhitelist": {
-    "message": "Liste over alle hvidlistede hjemmesider, en hjemmeside pr. linje:",
+    "message": "Liste over alle hvidlistede websteder, ét websted pr. linje:",
     "description": "Options text for whitelist box."
   },
   "optionStatusIndicators": {
@@ -80,7 +80,7 @@
     "description": "Options text for SAVE button."
   },
   "reportGithub": {
-    "message": "Rapporter vha. Github",
+    "message": "Anmeld vha. Github",
     "description": "Menu item to report using Github"
   },
   "reportAnon": {
@@ -96,15 +96,15 @@
     "description": "Notes for the report"
   },
   "reportNotesPlaceholder": {
-    "message": "Ting som:\nVideoplayback virker ikke\nScrollbar virker ikke\ngråt overtræk",
+    "message": "Ting, såsom:\nVideoafspilning virker ikke\nRullebjælke virker ikke\nGrå overlejring",
     "description": "Placeholder for the notes (\n) is a new line & keep it 4 lines"
   },
   "reportAnonSend": {
-    "message": "Send rapport",
+    "message": "Indsend rapport",
     "description": "Button to send the report"
   },
   "reportAnonCancel": {
-    "message": "Annuller",
+    "message": "Afbryd",
     "description": "Button to cCancel the report"
   },
   "genericErrorTitle": {
@@ -112,7 +112,7 @@
     "description": "Genereric error title"
   },
   "genericErrorTryAgain": {
-    "message": "Prøv igen senere..",
+    "message": "Forsøg igen senere..",
     "description": "Try again later message"
   },
   "genericErrorBack": {
@@ -124,23 +124,23 @@
     "description": "Loading messsage"
   },
   "generalIssueOption": {
-    "message": "Generelt problem (kræver noter)",
+    "message": "Generelt problem (kræver notater)",
     "description": "The option text for a general issue"
   },
   "scrollbarIssueOption": {
-    "message": "Scrollbar relateret",
+    "message": "Rullebjælke-relateret",
     "description": "The option text for a scrollbar issue"
   },
   "modalIssueOption": {
-    "message": "Modal relateret",
+    "message": "Dialogvindue-relateret",
     "description": "The option text for a modal issue"
   },
   "scrollbarIssueDescription": {
-    "message": "Vælg denne indstilling for at angive et problem på denne side relateret til rulning - som f. eks. 'webstedet viser ikke en rullebjælke'.",
+    "message": "Vælg denne mulighed for at angive et problem på denne side relateret til rulning - såsom 'webstedet viser ikke en rullebjælke'.",
     "description": "Explanation of what a scrollbar issue is"
   },
   "modalIssueDescription": {
-    "message": "Vælg denne indstilling for at tilkendegive et problem på denne side relateret til en modal - som f. eks. 'Der er en pop op-boks blokering hændelse'.",
+    "message": "Vælg denne mulighed for at angive et problem på denne side relateret til et dialogvindue - såsom 'der er et pop op-felt, der blokerer for interaktion'.",
     "description": "Explanation of what a modal issue is"
   }
 }
